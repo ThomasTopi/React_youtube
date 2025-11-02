@@ -12,7 +12,7 @@ function Header(){
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
-            <hr></hr>
+            {/* <hr></hr> */} {/* priradi lajnu */}
         </header>
         );
 }
