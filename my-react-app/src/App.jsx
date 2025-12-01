@@ -1,15 +1,11 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx'
-import Food from './Food.jsx'
-import Buttons from './Buttons.jsx'
+import MyComponent from './myComponent.jsx'
+import MyComponent2 from './myComponents.jsx'
 
 function App() {
   return(
     <div>
-      <Header />
-      <Buttons />
-      <Food />
-      <Footer />
+      <MyComponent/>
+      <MyComponent2/>
     </div>
   );
 }
